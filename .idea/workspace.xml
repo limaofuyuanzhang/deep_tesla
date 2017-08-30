@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3eae1dbc-6ac1-4734-9e45-de1a966e0094" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/models/model.h5" afterPath="$PROJECT_DIR$/models/model.h5" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/preferred-vcs.xml" afterPath="$PROJECT_DIR$/.idea/preferred-vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.ipynb_checkpoints/DeepTeslaModel-checkpoint.ipynb" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/DeepTeslaModel-checkpoint.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DeepTesla.ipynb" afterPath="$PROJECT_DIR$/DeepTesla.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DeepTeslaModel.ipynb" afterPath="$PROJECT_DIR$/DeepTeslaModel.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datasets.py" afterPath="$PROJECT_DIR$/datasets.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/models/model.json" afterPath="$PROJECT_DIR$/models/model.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.py" afterPath="$PROJECT_DIR$/test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.ipynb_checkpoints/deeptesla_report-checkpoint.ipynb" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/deeptesla_report-checkpoint.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/deeptesla_report.ipynb" afterPath="$PROJECT_DIR$/deeptesla_report.ipynb" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
